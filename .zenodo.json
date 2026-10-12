@@ -1,0 +1,27 @@
+{
+  "title": "lunar-ir-data-tools: readers and corrections for Kaguya SP, Kaguya MI and Chandrayaan-2 IIRS data",
+  "upload_type": "software",
+  "version": "0.1.0",
+  "publication_date": "2026-10-12",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Valantinas, Adomas",
+      "affiliation": "University of Cambridge",
+      "orcid": "0000-0001-9995-3335"
+    }
+  ],
+  "keywords": [
+    "Moon",
+    "Kaguya",
+    "SELENE",
+    "Spectral Profiler",
+    "Multiband Imager",
+    "Chandrayaan-2",
+    "IIRS",
+    "reflectance",
+    "thermal correction"
+  ],
+  "description": "Python readers and correction routines for lunar infrared spectrometer data: the Kaguya/SELENE Spectral Profiler Level 2C point spectra (PDS3), a footprint search through the JAXA DARTS PDAP service, a sampler for Kaguya Multiband Imager mosaics, and a Chandrayaan-2 IIRS PDS4 reader with single- and two-temperature thermal-emission removal for radiance-to-reflectance conversion.",
+  "access_right": "open"
+}
